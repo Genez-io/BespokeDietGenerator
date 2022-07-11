@@ -15,4 +15,4 @@ The command line utility has the following commands:
 - setExcludedIngredients: set the list of ingredients that a user does not want in its diet.
 - replaceIngredient: replace an ingredient in an existing recipe.
 
-For more information check: TODO.
+For more information check: https://rapidapi.com/genez-io-genez-io-default/api/bespoke-diet-generator/.
